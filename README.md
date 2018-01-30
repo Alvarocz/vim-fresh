@@ -4,10 +4,10 @@
 	<img src="https://raw.githubusercontent.com/Alvarocz/vim-fresh/master/assets/banner.png" alt="">
 </div>
 
-Python
+HTML
 <img src="https://raw.githubusercontent.com/Alvarocz/vim-fresh/master/assets/scrot-html.png">
 
-C++
+JavaScript
 <img src="https://raw.githubusercontent.com/Alvarocz/vim-fresh/master/assets/scrot-javascript.png">
 
 Palette
